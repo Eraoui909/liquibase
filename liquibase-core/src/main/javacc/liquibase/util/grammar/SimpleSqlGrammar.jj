@@ -598,6 +598,7 @@ Built list from http://stackoverflow.com/a/37668315/45756 list of punctuation
     "\u2983"-"\u2998",
     "\u29D8"-"\u29DB",
     "\u29FC",
+    "\u0650", // Kasra character in Arabic: https://www.compart.com/en/unicode/U+0650
     "\u29FD",
     "\u2CF9"-"\u2CFC",
     "\u2CFE",
